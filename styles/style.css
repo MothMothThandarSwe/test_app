@@ -1,0 +1,29 @@
+h1{
+    color: brown;
+    border: 10px solid black
+}
+.p2{
+    color: red;
+}
+p{
+    color: darkblue;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3{
+    color: green;
+}
+a{
+    font-style: none;
+    color: crimson;
+    text-decoration: none;
+    background-image: url("../images/apple.jpg");
+    background-size: cover; 
+}
+.first-div {
+    background-image: url("../images/apple.jpg");
+    background-size: cover;
+    height: 90px;
+    width: 90px;
+}
